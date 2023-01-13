@@ -10,13 +10,13 @@ Trace phone number easily with script By Black Mamba
 > find needed information like country , operator 
 
 ## Installation :
-` apt update`
+` apt update `
 
-` apt install git`
+` apt install git `
 
-` apt install python`
+` apt install python `
 
-` apt install python3`
+` apt install python3 `
 
 ` git clone https://github.com/FantasticSukhi/MambaTracker `
 
