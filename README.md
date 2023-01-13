@@ -1,5 +1,5 @@
 # Trace_num
-Trace phone number easily with script By BlackFox
+Trace phone number easily with script By Black Mamba
 
 
 ## Feature : 
@@ -11,7 +11,7 @@ Trace phone number easily with script By BlackFox
 
 ## Installation :
 
-` git clone https://github.com/BlackFoxTM/trace_num `
+` git clone https://github.com/FantasticSukhi/MambaTracker `
 
 ` cd trace_num ` 
 
@@ -20,4 +20,4 @@ Trace phone number easily with script By BlackFox
 ` python3 main.py `
 
 
-### Support Channel : [Telegram Channel](https://t.me/BlackFoxSecurityTeam)
+### Support Channel : [Youtube Channel](https://www.youtube.com/c/FantasticSukhi)
