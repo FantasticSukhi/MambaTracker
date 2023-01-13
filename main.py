@@ -39,9 +39,9 @@ def logo():
     return Figlet(font="slant").renderText("B F S T")
 
 print (gbl + "\t" + logo())
-print (gn + "\t Black Fox Security Team" + rd + "\n\t[&] Coded By Maximum Radikali" + mag + "\n\t[-] Channel - > " + bl + "https://t.me/BlackFoxSecurityTeam")
+print (gn + "\t Black Mamba" + rd + "\n\t[&] Programming By Sukhpal Kherera" + mag + "\n\t[-] Channel - > " + bl + "https://www.youtube.com/c/FantasticSukhi")
 
-number = input(rd + "[$] Enter your Phone With Country Code\n\t Example : +981234567890\n " + bl + "\n- >  " + gn )
+number = input(rd + "[$] Enter your Phone With Country Code\n\t Example : +911234567890\n " + bl + "\n- >  " + gn )
 
 
 print (yl + get_info_phone(number , operator(number) + cv))
