@@ -36,7 +36,7 @@ def operator(number):
     return final.replace(" " , "").replace("\n" , "")
 
 def logo():
-    return Figlet(font="slant").renderText("B F S T")
+    return Figlet(font="slant").renderText("M A M B A")
 
 print (gbl + "\t" + logo())
 print (gn + "\t Black Mamba" + rd + "\n\t[&] Programming By Sukhpal Kherera" + mag + "\n\t[-] Channel - > " + bl + "https://www.youtube.com/c/FantasticSukhi")
